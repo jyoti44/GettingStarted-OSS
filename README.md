@@ -45,7 +45,7 @@ https://opensource.google.com/
 
 ### Articles
 1. [Getting involved in open source](https://opensource.com/life/15/2/developers-guide-getting-involved-open-source)
-- [Open Source Articles for Developers](https://www.developer.com/open/)
++- [Open Source Articles for Developers](https://www.developer.com/open/)
 
 < Add more articles here >
 
